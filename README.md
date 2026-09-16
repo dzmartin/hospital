@@ -1,5 +1,5 @@
 # Exámen tipo parcial
-
+realizado por martin y angel
 ## Hospital
 Un hospital de nuestra ciudad necesita conocer cierta información respecto a los importes cobrados por las distintas atenciones que realiza,y requiere de un sistema orientado a objetos que le dé soporte a ello. Los datos relevantes son los siguientes:
 
